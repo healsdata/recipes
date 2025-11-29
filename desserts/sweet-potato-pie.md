@@ -3,6 +3,7 @@ categories: [dessert,thanksgiving]
 yields: [1 pie]
 prep: [10 mins]
 cook: [50 mins]
+made: [2025-11-28]
 ---
 
 # Sweet Potato Pie

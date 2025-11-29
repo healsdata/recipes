@@ -3,9 +3,14 @@ categories: [side]
 yields: [10 servings]
 prep: [10 mins, chill overnight]
 cook: [n/a]
+made: [2011-06-05]
 ---
 
 # Matt's Favorite Coleslaw
+
+> I loved the stuff and I normally hate coleslaw with a passion.
+> 
+> -- Matt McCauley
 
 ## Ingredients
 
