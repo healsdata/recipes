@@ -3,7 +3,7 @@ categories: [entree]
 yields: [n/a]
 prep: [n/a]
 cook: [n/a]
-made: [2022-01-09]
+made: [n/a]
 ---
 
 # Gluten-Free Shepherd's Pie

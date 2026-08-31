@@ -44,7 +44,7 @@ formatting if anything below is ambiguous.
    - `yields:`, `prep:`, `cook:` as single-item bracketed arrays, e.g.
      `[4 servings]`, `[10 mins]`; use `[n/a]` if the source doesn't say
    - `made:` — this repo records the date the dish was actually cooked.
-     Default to today's date, but tell the user to update it once they've
+     Default to "[n/a]", but tell the user to update it once they've
      actually made it.
 
 7. **Add the citation** under `## Notes`:
