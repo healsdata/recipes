@@ -3,7 +3,7 @@ categories: [dessert]
 yields: [10 servings]
 prep: [20 mins]
 cook: [30-40 mins]
-made: [2026-08-30]
+made: [2026-09-26]
 ---
 
 # Carrot Cake Cobbler with Caramel Pecan Filling
@@ -53,3 +53,4 @@ Cobbler:
 ## Notes
 
 * Derived from [Carrot Cake Cobbler with Caramel Pecan Filling](https://thesaltycooker.com/carrot-cake-cobbler-with-caramel-pecan-filling/) by Danielle Cochran
+* Made 2026-09-26 but subbed in sweet potato, oat flour, and sweetened condensed milk. Was dense and filling cooked into the cobbler. Need to learn to cut butter into flour better.
